@@ -1,2 +1,2 @@
-# Office365MFAReport
-PS .\Office365MFAReport.ps1 -Detailed
+# Office365EntraMFAReport
+PS .\Office365EntraMFAReport.ps1 -Detailed
